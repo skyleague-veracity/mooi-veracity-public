@@ -1,7 +1,6 @@
 openapi: 3.0.0
 servers:
-  - url: 'https://heroic-moccasin-first.ngrok-free.app/jm/flowable-rest/service'
-  - url: 'https://heroic-moccasin-first.ngrok-free.app/jm/flowable-rest/service'
+  - url: 'https://heroic-moccasin-first.ngrok-free.app/flowable/service'
 info:
   description: >-
     # flowable / flow??b(??)l /
